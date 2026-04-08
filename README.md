@@ -23,7 +23,21 @@ It allows users to submit complaints and admins to manage and update their statu
 - Fully containerized application
 
 ---
+## 📸 Screenshots
 
+### 🔹 Login Page
+![Login](screenshots/login.png)
+
+### 🔹 Home Page
+![Home](screenshots/home.png)
+
+### 🔹 Unsolved Complaints
+![Unsolved](screenshots/unsolved.png)
+
+### 🔹 Solved Complaints
+![Solved](screenshots/solved.png)
+
+---
 ## 📁 Project Structure
 - Dockerfile → Builds PHP Apache container
 - docker-compose.yml → Runs web + database services
